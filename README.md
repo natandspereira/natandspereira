@@ -1,5 +1,5 @@
 # Natan Pereira
-32 anos 
+32 anos <br>
 Solteiro 
 Maceió/AL
 
