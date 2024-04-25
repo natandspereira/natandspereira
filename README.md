@@ -1,4 +1,7 @@
 # Natan Pereira
+32 anos 
+Solteiro 
+Maceió/AL
 
 ## Sobre mim
 Trabalho com informática desde 2012, possuo experiência com atendimento em suporte e infraestrutura. Estou graduando em Analise e Desenvolvimento de sistemas pela (Uninassau) e cursando no (Senai/AL) o curso Técnico de Informática para Internet (Programação).
