@@ -3,7 +3,7 @@
 Solteiro <br>
 Maceió/AL
 
-## Sobre mim
+### Sobre mim
 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, além de estar cursando um técnico em Informática para Internet. Com experiência em suporte técnico e infraestrutura, adquiri habilidades em resolução de problemas e gestão de sistemas. Estou agora focado em ingressar na área de programação, onde pretendo aplicar meu conhecimento e minha experiência para melhorar e automatizar processos de desenvolvimento e operações. Tenho um forte interesse por tecnologia e estou sempre em busca de oportunidades para crescer e me desenvolver profissionalmente.
 
 ### Redes Sociais 
