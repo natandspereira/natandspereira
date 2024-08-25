@@ -4,7 +4,7 @@ Solteiro <br>
 Maceió/AL
 
 ## Sobre mim
-Trabalho com informática desde 2012, possuo experiência com atendimento em suporte e infraestrutura. Estou graduando em Analise e Desenvolvimento de sistemas pela (Uninassau) e cursando no (Senai/AL) o curso Técnico de Informática para Internet (Programação).
+Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, além de estar cursando um técnico em Informática para Internet. Com experiência em suporte técnico e infraestrutura, adquiri habilidades em resolução de problemas e gestão de sistemas. Estou agora focado em ingressar na área de programação, onde pretendo aplicar meu conhecimento e minha experiência para melhorar e automatizar processos de desenvolvimento e operações. Tenho um forte interesse por tecnologia e estou sempre em busca de oportunidades para crescer e me desenvolver profissionalmente.
 
 ### Redes Sociais 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natandspereira/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natandspereira)
@@ -28,4 +28,4 @@ Trabalho com informática desde 2012, possuo experiência com atendimento em sup
 ![Docker](https://img.shields.io/badge/DOCKER-blue?style=for-the-badge&logo=docker&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=natandspereira&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
