@@ -4,7 +4,7 @@ Solteiro <br>
 Maceió/AL
 
 ### Sobre mim
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, além de estar cursando um técnico em Informática para Internet. Com experiência em suporte técnico e infraestrutura, adquiri habilidades em resolução de problemas e gestão de sistemas. Estou agora focado em ingressar na área de programação, onde pretendo aplicar meu conhecimento e minha experiência para melhorar e automatizar processos de desenvolvimento e operações. Tenho um forte interesse por tecnologia e estou sempre em busca de oportunidades para crescer e me desenvolver profissionalmente.
+Sou estudante de Análise e Desenvolvimento de Sistemas e técnico em Informática para Internet. Com experiência em suporte técnico e infraestrutura, adquiri habilidades em resolução de problemas e gestão de sistemas. Estou agora focado em ingressar na área de programação, onde pretendo aplicar meu conhecimento e minha experiência para melhorar e automatizar processos de desenvolvimento e operações. Tenho um forte interesse por tecnologia e estou sempre em busca de oportunidades para crescer e me desenvolver profissionalmente.
 
 ### Redes Sociais 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natandspereira/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natandspereira)
