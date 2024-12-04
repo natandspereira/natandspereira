@@ -7,7 +7,7 @@ Maceió/AL
 Sou estudante de Análise e Desenvolvimento de Sistemas e técnico em Informática para Internet. Com experiência em suporte técnico e infraestrutura, adquiri habilidades em resolução de problemas e gestão de sistemas. Estou agora focado em ingressar na área de programação, onde pretendo aplicar meu conhecimento e minha experiência para melhorar e automatizar processos de desenvolvimento e operações. Tenho um forte interesse por tecnologia e estou sempre em busca de oportunidades para crescer e me desenvolver profissionalmente.
 
 ### Redes Sociais 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natandspereira/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natandspereira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natandspereira/) 
 
 
 ### Linguagens
@@ -24,8 +24,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e técnico em Informáti
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
 
-### Programas
+### Versionamento
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natandspereira)
+
+### Programas
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-blue?style=for-the-badge&logo=docker&logoColor=white) 
 
