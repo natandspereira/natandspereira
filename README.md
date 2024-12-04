@@ -16,7 +16,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e técnico em Informáti
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 
-## Banco de dados 
+### Banco de dados 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Sistemas Operacionais
