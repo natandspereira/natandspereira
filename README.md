@@ -22,7 +22,6 @@ Além das habilidades técnicas, valorizo a pontualidade, a iniciativa e o traba
 
 ### Sistemas Operacionais
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
 
 ### Versionamento
@@ -31,7 +30,7 @@ Além das habilidades técnicas, valorizo a pontualidade, a iniciativa e o traba
 
 ### Programas
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-blue?style=for-the-badge&logo=docker&logoColor=white) 
+
 
 ### Biblioteca 
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
