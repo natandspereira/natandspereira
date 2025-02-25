@@ -21,8 +21,7 @@ Além das habilidades técnicas, valorizo a pontualidade, a iniciativa e o traba
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Sistemas Operacionais
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) 
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
+[![My Skills](https://skillicons.dev/icons?i=linux,)](https://skillicons.dev)
 
 ### Versionamento
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
