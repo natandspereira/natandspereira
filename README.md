@@ -8,7 +8,8 @@ Além das habilidades técnicas, valorizo a pontualidade, a iniciativa e o traba
 
 
 ### Redes Sociais 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/natandspereira)
+
 
 ### Linguagens
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs)](https://skillicons.dev)
