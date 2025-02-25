@@ -18,7 +18,7 @@ Além das habilidades técnicas, valorizo a pontualidade, a iniciativa e o traba
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Banco de dados 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ### Sistemas Operacionais
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
@@ -27,11 +27,11 @@ Além das habilidades técnicas, valorizo a pontualidade, a iniciativa e o traba
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ### Programas
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 
 ### Biblioteca 
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 
 
