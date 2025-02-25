@@ -1,10 +1,11 @@
 # Natan Pereira
 32 anos <br>
-Solteiro <br>
 Maceió/AL
 
 ### Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas e técnico em Informática para Internet. Com experiência em suporte técnico e infraestrutura, adquiri habilidades em resolução de problemas e gestão de sistemas. Estou agora focado em ingressar na área de programação, onde pretendo aplicar meu conhecimento e minha experiência para melhorar e automatizar processos de desenvolvimento e operações. Tenho um forte interesse por tecnologia e estou sempre em busca de oportunidades para crescer e me desenvolver profissionalmente.
+Sou apaixonado por transformar ideias em experiências digitais. Estou sempre em busca de aprender e evoluir. Acredito que a tecnologia pode impactar de forma positiva a vida das pessoas, e quero fazer parte dessa transformação.
+Além das habilidades técnicas, valorizo a pontualidade, a iniciativa e o trabalho em equipe. Acredito que a colaboração é essencial para o sucesso de qualquer projeto e estou sempre disposto a contribuir e aprender com meus colegas.
+
 
 ### Redes Sociais 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natandspereira/) 
