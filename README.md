@@ -22,7 +22,8 @@ Apaixonado por tecnologia e inovação, acredito que o código pode transformar 
 ## 🛠️ Tecnologias  
 
 ### 🔹 Linguagens  
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)  
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) 
+
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)  
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)  
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)  
