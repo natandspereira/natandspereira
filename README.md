@@ -4,6 +4,7 @@
 📍 Maceió/AL | 🎂 32 anos  
 
 🌎 **Onde me encontrar**  
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/natandspereira)  
 
 🛠️ **Tecnologias**  
