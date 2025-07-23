@@ -1,7 +1,7 @@
 # 🚀 Natan Pereira  
 **💼 Desenvolvedor | 💡 Criador de Experiências Digitais**  
 
-📍 Maceió/AL | 🎂 32 anos  
+📍 Maceió/AL 
 
 🌎 **Onde me encontrar**  
 
