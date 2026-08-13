@@ -3,7 +3,7 @@
 
 🛠️ Áreas de Interesse
 
-🖥️ Infraestrutura de TI <br>
+• 🖥️ Infraestrutura de TI <br>
 • 🌐 Redes <br>
 • 🐧 Linux <br>
 • 🗄️ Servidores <br> 
