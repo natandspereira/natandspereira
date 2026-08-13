@@ -4,13 +4,13 @@
 🛠️ Áreas de Interesse
 
 🖥️ Infraestrutura de TI 
-• 🌐 Redes 
-• 🐧 Linux 
-• 🗄️ Servidores 
-• 🐳 Docker 
-• 💻 Virtualização 
-• 🔒 Segurança 
-• 🛠️ Suporte Técnico 
+• 🌐 Redes <br>
+• 🐧 Linux <br>
+• 🗄️ Servidores <br> 
+• 🐳 Docker <br>
+• 💻 Virtualização <br> 
+• 🔒 Segurança <br>
+• 🛠️ Suporte Técnico <br> 
 • ⚙️ Automação
 
  
