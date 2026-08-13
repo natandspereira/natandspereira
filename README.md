@@ -3,7 +3,7 @@
 
 🛠️ Áreas de Interesse
 
-Infraestrutura de TI • Redes • Linux • Servidores • Docker • Virtualização • Segurança • Suporte Técnico • Automação
+🖥️ Infraestrutura de TI • 🌐 Redes • 🐧 Linux • 🗄️ Servidores • 🐳 Docker • 💻 Virtualização • 🔒 Segurança • 🛠️ Suporte Técnico • ⚙️ Automação
 
  
 
